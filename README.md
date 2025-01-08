@@ -8,8 +8,8 @@ Solo :
 
 **Project Name: Simon Game**
 
-_Language Used: C++
-Framework: Qt
+_Language Used: C++,
+Framework: Qt,
 IDE: QtCreator_
 
 Overview of the project :
@@ -24,8 +24,8 @@ Team Projects:
 
 **Project Name: Basic Sprite Editor**
 
-_Language Used: C++
-Framework: Qt
+_Language Used: C++,
+Framework: Qt,
 IDE: QtCreator_
 
 Overview of the project :
@@ -38,9 +38,9 @@ Project Repo Link (This project is private due to academic restrictions ):
 
 **Project Name: Chinese Language Writing Teaching App**
 
-_Language Used: C++
-Framework: Qt
-Libraries Used: Box2D and several other Qt Libraries
+_Language Used: C++,
+Framework: Qt,
+Libraries Used: Box2D and several other Qt Libraries,
 IDE: QtCreator_
 
 Overview of the project :
