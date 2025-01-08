@@ -39,6 +39,7 @@ Project Repo Link (This project is private due to academic restrictions ):
 **
 
 **Project Name: Chinese Language Writing Teaching App
+**
 
 _Language Used: C++
 Framework: Qt
