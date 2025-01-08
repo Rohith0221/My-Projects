@@ -20,6 +20,7 @@ user interaction with buttons along with some cool animation transitions.
 Project Repo Link (This project is private due to academic restrictions ):
 **https://github.com/University-of-Utah-CS3505/a6-simon-f24-Rohith0221
 **
+
 Team Projects:
 
 **Project Name: Basic Sprite Editor**
