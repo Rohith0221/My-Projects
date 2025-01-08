@@ -18,8 +18,7 @@ Developed a game similar to SimonGame using Qt Framework and C++ in QtCreator to
 user interaction with buttons along with some cool animation transitions.
 
 Project Repo Link (This project is private due to academic restrictions ):
-**https://github.com/University-of-Utah-CS3505/a6-simon-f24-Rohith0221
-**
+**https://github.com/University-of-Utah-CS3505/a6-simon-f24-Rohith0221**
 
 Team Projects:
 
@@ -35,11 +34,9 @@ Developed a sprite editor using Qt Framework and C++ in QtCreator with a team of
 providing buttons for user interactions. Contains interesting features such as playing the sprite animations at a certain frame rate, importing images onto Canvas, drawing shapes, etc...
 
 Project Repo Link (This project is private due to academic restrictions ):
-**https://github.com/University-of-Utah-CS3505/a8-sprite-editor-f24
-**
+**https://github.com/University-of-Utah-CS3505/a8-sprite-editor-f24**
 
-**Project Name: Chinese Language Writing Teaching App
-**
+**Project Name: Chinese Language Writing Teaching App**
 
 _Language Used: C++
 Framework: Qt
@@ -52,5 +49,5 @@ Developed an app using Qt Framework and C++ and Box2D in QtCreator with a team o
 with custom combinations giving them real-time translation in English to help them understand what the word is alongside allowing users to trace the word which also has a feedback mechanism that corresponds to how accurately the character is traced.
 
 Project Repo Link (This project is private due to academic restrictions ):
-**https://github.com/University-of-Utah-CS3505/a9-edu-app-f24
-**
+**https://github.com/University-of-Utah-CS3505/a9-edu-app-f24**
+
