@@ -50,6 +50,5 @@ Overview of the project :
 Developed an app using Qt Framework and C++ and Box2D in QtCreator with a team of 3 other members to enhance my GUI development, Box2D physics simulations, and event-driven programming skills. This application teaches users how to write a few Chinese words and characters
 with custom combinations giving them real-time translation in English to help them understand what the word is alongside allowing users to trace the word which also has a feedback mechanism that corresponds to how accurately the character is traced.
 
-Project Repo Link (This project is private due to academic restrictions ):
-**https://github.com/University-of-Utah-CS3505/a9-edu-app-f24**
-
+[**https://github.com/University-of-Utah-CS3505/a9-edu-app-f24**](https://github.com/University-of-Utah-CS3505/a9-edu-app-f24)
+](https://github.com/University-of-Utah-CS3505/a9-edu-app-f24)
