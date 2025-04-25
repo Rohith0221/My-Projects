@@ -10,7 +10,7 @@ Solo :
 
 _Language Used: C++,
 Framework: Qt,
-IDE: QtCreator_
+IDE: QtCreator
 
 Overview of the project :
 
@@ -24,24 +24,26 @@ Team Projects:
 
 **Project Name: Basic Sprite Editor**
 
-_Language Used: C++,
+Language Used: C++,
 Framework: Qt,
-IDE: QtCreator_
+IDE: QtCreator,
+Development Model: Agile/Scrum and Kanban
 
 Overview of the project :
 
 Developed a sprite editor using Qt Framework and C++ in QtCreator with a team of 3 other members to enhance my GUI development and event-driven programming skills. This game includes core logic for allowing the user to draw on canvas using different tools and 
 providing buttons for user interactions. Contains interesting features such as playing the sprite animations at a certain frame rate, importing images onto Canvas, drawing shapes, etc...
 
-Project Repo Link (This project is private due to academic restrictions ):
-**https://github.com/University-of-Utah-CS3505/a8-sprite-editor-f24**
+[https://github.com/University-of-Utah-CS3505/a8-sprite-editor-f24
+](https://github.com/University-of-Utah-CS3505/a8-sprite-editor-f24)
 
 **Project Name: Chinese Language Writing Teaching App**
 
 _Language Used: C++,
 Framework: Qt,
 Libraries Used: Box2D and several other Qt Libraries,
-IDE: QtCreator_
+IDE: QtCreator,
+Development Model: Agile/Scrum and Kanban
 
 Overview of the project :
 
