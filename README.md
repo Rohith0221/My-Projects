@@ -51,7 +51,7 @@ with custom combinations giving them real-time translation in English to help th
 
 https://github.com/University-of-Utah-CS3505/a9-edu-app-f24
 
-**Project Name: Spreadsheet Editor **
+**Project Name: Spreadsheet Editor**
 
 Language Used: C#,
 Frameworks Used: .Net MAUI
