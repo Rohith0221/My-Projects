@@ -3,7 +3,7 @@
 
 List of Projects I have worked on :
 
-Solo :
+## Solo :
 
 # Project Name: Simon Game
 
