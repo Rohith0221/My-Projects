@@ -50,3 +50,23 @@ Developed an app using Qt Framework and C++ and Box2D in QtCreator with a team o
 with custom combinations giving them real-time translation in English to help them understand what the word is alongside allowing users to trace the word which also has a feedback mechanism that corresponds to how accurately the character is traced.
 
 https://github.com/University-of-Utah-CS3505/a9-edu-app-f24
+
+**Project Name: Spreadsheet Editor **
+
+Language Used: C#,
+Frameworks Used: .Net MAUI
+Libraries Used: Maui.Graphics,
+IDE: Visual Studio,
+Development Model: Scrum
+
+Overview of the project:
+
+Developed a robust Spreadsheet program using C# and .NET MAUI, featuring dynamic formula evaluation and validation functionality.
+
+Implemented a custom GraphDependencyLibrary to simulate spreadsheet-like behavior by establishing and managing dependencies between cells, allowing automatic updates when referenced cells change.
+
+Enhanced the formula validation system to support double-precision floating-point evaluation, enabling accurate and flexible numerical computations.
+
+This project demonstrates advanced skills in GUI development, data dependency management, and real-time recalculation similar to professional-grade spreadsheet software.
+
+https://github.com/uofu-cs3500-spring24/spreadsheet-Rohith0221
