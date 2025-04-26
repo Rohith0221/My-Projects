@@ -8,7 +8,7 @@ Solo :
 
 **Project Name: Simon Game**
 
-_Language Used: C++,
+Language Used: C++,
 Framework: Qt,
 IDE: QtCreator
 
@@ -38,7 +38,7 @@ providing buttons for user interactions. Contains interesting features such as p
 
 **Project Name: Chinese Language Writing Teaching App**
 
-_Language Used: C++,
+Language Used: C++,
 Framework: Qt,
 Libraries Used: Box2D and several other Qt Libraries,
 IDE: QtCreator,
