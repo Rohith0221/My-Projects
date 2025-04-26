@@ -3,7 +3,7 @@
 
 List of Projects I have worked on :
 
-## Solo :
+**Solo :**
 
 # Project Name: Simon Game
 
@@ -18,7 +18,8 @@ user interaction with buttons along with some cool animation transitions.
 
 **https://github.com/University-of-Utah-CS3505/a6-simon-f24-Rohith0221**
 
-Team Projects:
+_**Team Projects:**
+_
 
 # Project Name: Basic Sprite Editor
 
