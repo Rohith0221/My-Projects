@@ -1,12 +1,11 @@
 # My-Projects
 
-Note that the full source code for these projects is kept private due to academic requirements, but feel free to reach out to me if you’d like access to the code for further review.
 
 List of Projects I have worked on :
 
 Solo :
 
-**Project Name: Simon Game**
+# Project Name: Simon Game
 
 Language Used: C++,
 Framework: Qt,
@@ -21,7 +20,7 @@ user interaction with buttons along with some cool animation transitions.
 
 Team Projects:
 
-**Project Name: Basic Sprite Editor**
+# Project Name: Basic Sprite Editor
 
 Language Used: C++,
 Framework: Qt,
@@ -36,7 +35,7 @@ providing buttons for user interactions. Contains interesting features such as p
 [https://github.com/University-of-Utah-CS3505/a8-sprite-editor-f24
 ](https://github.com/University-of-Utah-CS3505/a8-sprite-editor-f24)
 
-**Project Name: Chinese Language Writing Teaching App**
+# Project Name: Chinese Language Writing Teaching App
 
 Language Used: C++,
 Framework: Qt,
@@ -51,7 +50,7 @@ with custom combinations giving them real-time translation in English to help th
 
 https://github.com/University-of-Utah-CS3505/a9-edu-app-f24
 
-**Project Name: Spreadsheet Editor**
+# Project Name: Spreadsheet Editor
 
 Language Used: C#,
 Frameworks Used: .Net MAUI
