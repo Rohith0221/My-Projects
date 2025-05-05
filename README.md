@@ -69,3 +69,39 @@ Enhanced the formula validation system to support double-precision floating-poin
 This project demonstrates advanced skills in GUI development, data dependency management, and real-time recalculation similar to professional-grade spreadsheet software.
 
 https://github.com/uofu-cs3500-spring24/spreadsheet-Rohith0221
+
+
+# Project Name: DrawingApp – Collaborative Mobile Drawing Application
+
+Languages Used: Kotlin, Java
+Framework: Android SDK, Ktor (Client and Server)
+IDE: Android Studio
+Development Model: Agile/Scrum
+
+Overview of the project:
+
+Built an Android mobile application in a team of 4 using Android Studio and the Ktor framework to enable users to draw freely on a canvas with customizable tools. The app supports various pen colors and stroke sizes, an eraser, saving and reopening past drawings, and most notably, the ability to share drawings with others and import shared drawings for continued editing or viewing.
+
+I contributed heavily to the client-side UI, including the design and implementation of most of the screens, the file import feature, and pen customization tool (color picker). Teammates worked on additional features like blur and noise filters and the Ktor-based backend server for sharing functionality.
+
+# Project Name: Grading Web Application(Grader app)
+
+Languages Used: Python, HTML, CSS, JavaScript
+Framework: Django
+Libraries/Tools Used: Django Authentication and Authorization Modules
+IDE: Visual Studio Code
+Development Model: Solo Project (Independent Development)
+
+Overview of the project:
+
+Developed a full-stack web application using Django to simulate a basic grading system with multi-role user support. This solo project focused on implementing backend logic, authentication workflows, and dynamic rendering of role-specific pages using Django templates.
+
+The application supports three types of users — Students, TAs, and Admin (Superuser) — with distinct permissions and functionality:
+
+    Students can log in, view assignments, and submit work based on assignment due dates. They also see a real-time calculation of their total score on their dashboard.
+
+    TAs and Admins can log in, grade student submissions, assign scores, and create or manage assignment records.
+
+The app leverages Django’s built-in authentication and authorization modules for secure login/logout and role-based access control. The front end was implemented using HTML, CSS, and JavaScript to provide a clean and responsive user experience.
+
+**Web App Link: https://gradeportal3550.me/profile**
