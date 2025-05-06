@@ -82,7 +82,7 @@ Overview of the project:
 
 Built an Android mobile application in a team of 4 using Android Studio and the Ktor framework to enable users to draw freely on a canvas with customizable tools. The app supports various pen colors and stroke sizes, an eraser, saving and reopening past drawings, and most notably, the ability to share drawings with others and import shared drawings for continued editing or viewing.
 
-I contributed heavily to the client-side UI, including the design and implementation of most of the screens, the file import feature, and pen customization tool (color picker). Teammates worked on additional features like blur and noise filters and the Ktor-based backend server for sharing functionality.
+I contributed heavily to the client-side UI, including the design and implementation of most of the screens, the file import feature, and the pen customization tool (color picker). Teammates worked on additional features like blur and noise filters and the Ktor-based backend server for sharing functionality.
 
 # Project Name: Grading Web Application(Grader app)
 
@@ -105,3 +105,8 @@ The application supports three types of users — Students, TAs, and Admin (Supe
 The app leverages Django’s built-in authentication and authorization modules for secure login/logout and role-based access control. The front end was implemented using HTML, CSS, and JavaScript to provide a clean and responsive user experience.
 
 **Web App Link: https://gradeportal3550.me/profile**
+
+        Demo login:
+        
+        Username: a(Student login)
+        Password: a(Student login)
