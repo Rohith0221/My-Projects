@@ -103,10 +103,3 @@ The application supports three types of users — Students, TAs, and Admin (Supe
     TAs and Admins can log in, grade student submissions, assign scores, and create or manage assignment records.
 
 The app leverages Django’s built-in authentication and authorization modules for secure login/logout and role-based access control. The front end was implemented using HTML, CSS, and JavaScript to provide a clean and responsive user experience.
-
-**Web App Link: https://gradeportal3550.me/profile**
-
-        Demo login:
-        
-        Username: a(Student login)
-        Password: a(Student login)
