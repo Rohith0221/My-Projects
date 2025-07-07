@@ -80,7 +80,7 @@ Development Model: Agile/Scrum
 
 Overview of the project:
 
-Built an Android mobile application in a team of 4 using Android Studio and the Ktor framework to enable users to draw freely on a canvas with customizable tools. The app supports various pen colors and stroke sizes, an eraser, saving and reopening past drawings, and most notably, the ability to share drawings with others and import shared drawings for continued editing or viewing.
+Built an Android mobile application in a team of 3 using Android Studio and the Ktor framework to enable users to draw freely on a canvas with customizable tools. The app supports various pen colors and stroke sizes, an eraser, saving and reopening past drawings, and most notably, the ability to share drawings with others and import shared drawings for continued editing or viewing.
 
 I contributed heavily to the client-side UI, including the design and implementation of most of the screens, the file import feature, and the pen customization tool (color picker). Teammates worked on additional features like blur and noise filters and the Ktor-based backend server for sharing functionality.
 
